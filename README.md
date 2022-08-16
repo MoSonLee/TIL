@@ -13,9 +13,10 @@
 [Build Settings](https://github.com/MoSonLee/TIL/issues/15#issue-1340012626)</br>
 [앱의 생명주기(life cycle)](https://github.com/MoSonLee/TIL/issues/12#issue-1340006324)</br>
 [Access Control(접근제어자](https://github.com/MoSonLee/TIL/issues/19#issue-1340056845)</br>
+[iOS의 기본 구조(feat: Cocoa touch)](https://github.com/MoSonLee/TIL/issues/21#issue-1340178890)</br>
 
 
-## UI
+## Swift
 [UIKit](https://github.com/MoSonLee/TIL/issues/7#issue-1339997048)</br>
 [UIView](https://github.com/MoSonLee/TIL/issues/9#issue-1339999780)</br>
 [UIViewController](https://github.com/MoSonLee/TIL/issues/8#issue-1339998638)</br>
@@ -26,5 +27,9 @@
 [#available, @available, #unavailable](https://github.com/MoSonLee/TIL/issues/13#issue-1340010382)</br>
 [AppDelegate, SceneDelegate](https://github.com/MoSonLee/TIL/issues/11#issue-1340005330)</br>
 [UIPageViewController](https://github.com/MoSonLee/TIL/issues/20#issue-1340082110)</br>
-
-
+[Parameter && Argument](https://github.com/MoSonLee/TIL/issues/24#issue-1340186693)</br>
+[Outlet Collection ](https://github.com/MoSonLee/TIL/issues/27#issue-1340201468)</br>
+[Optional](https://github.com/MoSonLee/TIL/issues/25#issue-1340197978)</br>
+[Function && Method](https://github.com/MoSonLee/TIL/issues/23#issue-1340183315)</br>
+[Any & AnyObject](https://github.com/MoSonLee/TIL/issues/26#issue-1340200669)</br>
+[Break Point](https://github.com/MoSonLee/TIL/issues/22#issue-1340180488)</br>
