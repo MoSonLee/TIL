@@ -14,6 +14,10 @@
 [iOS 앱의 생명주기(life cycle)](https://github.com/MoSonLee/TIL/issues/12#issue-1340006324)</br>
 [Access Control(접근제어자](https://github.com/MoSonLee/TIL/issues/19#issue-1340056845)</br>
 [iOS의 기본 구조(feat: Cocoa touch)](https://github.com/MoSonLee/TIL/issues/21#issue-1340178890)</br>
+[ViewController LifeCycle](https://github.com/MoSonLee/TIL/issues/49#issue-1341430329)</br>
+[Major / Minor / Patch](https://github.com/MoSonLee/TIL/issues/48#issue-1341428756)</br>
+[ViewController LifeCycle](https://github.com/MoSonLee/TIL/issues/49#issue-1341430329)</br>
+[⭐️Class,Struct⭐️](https://github.com/MoSonLee/TIL/issues/43#issue-1341423602)</br>
 
 ## Git
 [Git vs Github](https://github.com/MoSonLee/TIL/issues/28#issue-1340468609)</br>
@@ -21,6 +25,7 @@
 
 
 ## Swift
+[Swift Package Manager](https://github.com/MoSonLee/TIL/issues/47#issue-1341428353)</br>
 [UIKit](https://github.com/MoSonLee/TIL/issues/7#issue-1339997048)</br>
 [UIView](https://github.com/MoSonLee/TIL/issues/9#issue-1339999780)</br>
 [UIViewController](https://github.com/MoSonLee/TIL/issues/8#issue-1339998638)</br>
@@ -30,6 +35,7 @@
 [Debug View Hierarchy](https://github.com/MoSonLee/TIL/issues/16#issue-1340014576)</br>
 [#available, @available, #unavailable](https://github.com/MoSonLee/TIL/issues/13#issue-1340010382)</br>
 [AppDelegate, SceneDelegate](https://github.com/MoSonLee/TIL/issues/11#issue-1340005330)</br>
+[Storyboard Reference](https://github.com/MoSonLee/TIL/issues/46#issue-1341426998)</br>
 [UIPageViewController](https://github.com/MoSonLee/TIL/issues/20#issue-1340082110)</br>
 [Parameter && Argument](https://github.com/MoSonLee/TIL/issues/24#issue-1340186693)</br>
 [Outlet Collection ](https://github.com/MoSonLee/TIL/issues/27#issue-1340201468)</br>
@@ -46,6 +52,11 @@
 [Enum](https://github.com/MoSonLee/TIL/issues/36#issue-1340487126)</br>
 [Override vs Overload](https://github.com/MoSonLee/TIL/issues/38#issue-1340490261)</br>
 [forEach - for in](https://github.com/MoSonLee/TIL/issues/42#issue-1341391110)</br>
+[Extension](https://github.com/MoSonLee/TIL/issues/52#issue-1341454379)</br>
+[UITableView](https://github.com/MoSonLee/TIL/issues/51#issue-1341440503)</br>
+[UserDefaults](https://github.com/MoSonLee/TIL/issues/50#issue-1341430967)</br>
+[UIAlertController](https://github.com/MoSonLee/TIL/issues/45#issue-1341426165)</br>
+[Instance, Property, Method, Member, Initializer & Default Initializer & Memberwise initializer](https://github.com/MoSonLee/TIL/issues/44#issue-1341425352)</br>
 
 ## Layout
 [iOS Layout](https://github.com/MoSonLee/TIL/issues/39#issue-1341319568)</br>
