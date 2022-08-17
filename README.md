@@ -37,7 +37,6 @@
 [Function && Method](https://github.com/MoSonLee/TIL/issues/23#issue-1340183315)</br>
 [Any & AnyObject](https://github.com/MoSonLee/TIL/issues/26#issue-1340200669)</br>
 [Break Point](https://github.com/MoSonLee/TIL/issues/22#issue-1340180488)</br>
-[AutoLayout](https://github.com/MoSonLee/TIL/issues/30#issue-1340473117)</br>
 [Button Action](https://github.com/MoSonLee/TIL/issues/31#issue-1340474719)</br>
 [UITabBarController / UITabBar / UITabBarItem](https://github.com/MoSonLee/TIL/issues/32#issue-1340476438)</br>
 [UINavigationController / UINavigationBar / UITNavigationItem](https://github.com/MoSonLee/TIL/issues/33#issue-1340478371)</br>
@@ -46,3 +45,9 @@
 [Tuple](https://github.com/MoSonLee/TIL/issues/37#issue-1340488502)</br>
 [Enum & RawValue](https://github.com/MoSonLee/TIL/issues/36#issue-1340487126)</br>
 [Override vs Overload](https://github.com/MoSonLee/TIL/issues/38#issue-1340490261)</br>
+
+## Layout
+[iOS Layout](https://github.com/MoSonLee/TIL/issues/39#issue-1341319568)</br>
+[AutoLayout](https://github.com/MoSonLee/TIL/issues/30#issue-1340473117)</br>
+[코드를 사용하여 layout 잡아주기(NSLayoutConstraint , CGRect, SnapKit)](https://github.com/MoSonLee/TIL/issues/41#issue-1341340646)</br>
+[Autoresizing Mask && translatesAutoresizingMaskIntoConstraints](https://github.com/MoSonLee/TIL/issues/40#issue-1341327421)</br>
