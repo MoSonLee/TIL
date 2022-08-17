@@ -18,6 +18,10 @@
 [Major / Minor / Patch](https://github.com/MoSonLee/TIL/issues/48#issue-1341428756)</br>
 [ViewController LifeCycle](https://github.com/MoSonLee/TIL/issues/49#issue-1341430329)</br>
 [⭐️Class,Struct⭐️](https://github.com/MoSonLee/TIL/issues/43#issue-1341423602)</br>
+[Kingfisher](https://github.com/MoSonLee/TIL/issues/55#issue-1341599512)</br>
+
+## CS
+[http, https(App Transport Secrutiy Settings)](https://github.com/MoSonLee/TIL/issues/54#issue-1341597717)</br>
 
 ## Git
 [Git vs Github](https://github.com/MoSonLee/TIL/issues/28#issue-1340468609)</br>
@@ -57,6 +61,7 @@
 [UserDefaults](https://github.com/MoSonLee/TIL/issues/50#issue-1341430967)</br>
 [UIAlertController](https://github.com/MoSonLee/TIL/issues/45#issue-1341426165)</br>
 [Instance, Property, Method, Member, Initializer & Default Initializer & Memberwise initializer](https://github.com/MoSonLee/TIL/issues/44#issue-1341425352)</br>
+[UICollectionView](https://github.com/MoSonLee/TIL/issues/53#issue-1341592794)</br>
 
 ## Layout
 [iOS Layout](https://github.com/MoSonLee/TIL/issues/39#issue-1341319568)</br>
