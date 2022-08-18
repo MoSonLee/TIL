@@ -51,6 +51,8 @@
 [Extension](https://github.com/MoSonLee/TIL/issues/52#issue-1341454379)</br>
 [UserDefaults](https://github.com/MoSonLee/TIL/issues/50#issue-1341430967)</br>
 [Instance, Property, Method, Member, Initializer & Default Initializer & Memberwise initializer](https://github.com/MoSonLee/TIL/issues/44#issue-1341425352)</br>
+[Generic](https://github.com/MoSonLee/TIL/issues/57#issue-1342735528)</br>
+[TypeCasting](https://github.com/MoSonLee/TIL/issues/56#issue-1342728055)</br>
 
 
 ## View + ViewController
