@@ -2,7 +2,7 @@
 
 ### iOS
 
-## Xcode 및 기본 개념
+## Xcode, 기본 개념, 외부라이브러리
 [Bundle identifier](https://github.com/MoSonLee/TIL/issues/1#issue-1299274205)</br>
 [SF Symbols](https://github.com/MoSonLee/TIL/issues/3#issue-1299276529)</br>
 [HIG](https://github.com/MoSonLee/TIL/issues/2#issue-1299275288)</br>
@@ -19,6 +19,7 @@
 [ViewController LifeCycle](https://github.com/MoSonLee/TIL/issues/49#issue-1341430329)</br>
 [⭐️Class,Struct⭐️](https://github.com/MoSonLee/TIL/issues/43#issue-1341423602)</br>
 [Kingfisher](https://github.com/MoSonLee/TIL/issues/55#issue-1341599512)</br>
+[JGProgressHUD](https://github.com/MoSonLee/TIL/issues/80#issue-1361713925)</br>
 
 ## CS
 [http, https(App Transport Secrutiy Settings)](https://github.com/MoSonLee/TIL/issues/54#issue-1341597717)</br>
@@ -34,12 +35,14 @@
 ## Git
 [Git vs Github](https://github.com/MoSonLee/TIL/issues/28#issue-1340468609)</br>
 [Local Repository vs Remote Repository + commit , push](https://github.com/MoSonLee/TIL/issues/29#issue-1340470261)</br>
+[gitignore](https://github.com/MoSonLee/TIL/issues/75#issue-1361706482)</br>
 
 ## FrameWork
 [MVC](https://github.com/MoSonLee/TIL/issues/73#issue-1361603218)</br>
 [MVVM](https://github.com/MoSonLee/TIL/issues/72#issue-1361586400)</br>
 
 ## Swift
+[FirstClass Object](https://github.com/MoSonLee/TIL/issues/77#issue-1361709707)</br>
 [Swift Package Manager](https://github.com/MoSonLee/TIL/issues/47#issue-1341428353)</br>
 [IBOutlet & @IBAction](https://github.com/MoSonLee/TIL/issues/10#issue-1340000840)</br>
 [Dark Theme](https://github.com/MoSonLee/TIL/issues/14#issue-1340011294)</br>
@@ -68,7 +71,8 @@
 [Local Notofication && Remote Notofication](https://github.com/MoSonLee/TIL/issues/68#issue-1342832935)</br>
 [Protocol](https://github.com/MoSonLee/TIL/issues/62#issue-1342798299)</br>
 [Property, Property Observer](https://github.com/MoSonLee/TIL/issues/58#issue-1342766733)</br>
-[Mutating func](https://github.com/MoSonLee/TIL/issues/59#issue-1342772184)</br
+[Mutating func](https://github.com/MoSonLee/TIL/issues/59#issue-1342772184)</br>
+[Typealias](https://github.com/MoSonLee/TIL/issues/78#issue-1361710220)</br>
 
 ## View + ViewController
 [UIWindw](https://github.com/MoSonLee/TIL/issues/18#issue-1340017275)</br>
@@ -88,6 +92,9 @@
 [UITextView](https://github.com/MoSonLee/TIL/issues/64#issue-1342810365)</br>
 [UIToolBar](https://github.com/MoSonLee/TIL/issues/63#issue-1342806406)</br>
 [UIViewController 위에 UITableView를 올려서 사용하기](https://github.com/MoSonLee/TIL/issues/61#issue-1342783997)</br>
+[Handling button tap inside UITableView Cell](https://github.com/MoSonLee/TIL/issues/60#issue-1342774593)</br>
+[Pagenation](https://github.com/MoSonLee/TIL/issues/76#issue-1361707942)</br>
+[UICollectionViewDataSourcePrefetching(pagenation에서 자주 사용됨)](https://github.com/MoSonLee/TIL/issues/79#issue-1361713332)</ㅠㄱ
 [Handling button tap inside UITableView Cell](https://github.com/MoSonLee/TIL/issues/60#issue-1342774593)</br>
 
 ## Layout
