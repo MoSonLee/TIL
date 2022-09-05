@@ -27,6 +27,10 @@
 [ARC](https://github.com/MoSonLee/TIL/issues/70#issue-1361514904)</br>
 [Strong Reference Cycle](https://github.com/MoSonLee/TIL/issues/71#issue-1361583556)</br>
 
+## 동기처리(수정 및 추가 예정)
+[GCD](https://github.com/MoSonLee/TIL/issues/74#issue-1361687932)</br>
+
+
 ## Git
 [Git vs Github](https://github.com/MoSonLee/TIL/issues/28#issue-1340468609)</br>
 [Local Repository vs Remote Repository + commit , push](https://github.com/MoSonLee/TIL/issues/29#issue-1340470261)</br>
