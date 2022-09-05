@@ -23,10 +23,17 @@
 ## CS
 [http, https(App Transport Secrutiy Settings)](https://github.com/MoSonLee/TIL/issues/54#issue-1341597717)</br>
 
+## 순환참조
+[ARC](https://github.com/MoSonLee/TIL/issues/70#issue-1361514904)</br>
+[Strong Reference Cycle](https://github.com/MoSonLee/TIL/issues/71#issue-1361583556)</br>
+
 ## Git
 [Git vs Github](https://github.com/MoSonLee/TIL/issues/28#issue-1340468609)</br>
 [Local Repository vs Remote Repository + commit , push](https://github.com/MoSonLee/TIL/issues/29#issue-1340470261)</br>
 
+## FrameWork
+[MVC](https://github.com/MoSonLee/TIL/issues/73#issue-1361603218)</br>
+[MVVM](https://github.com/MoSonLee/TIL/issues/72#issue-1361586400)</br>
 
 ## Swift
 [Swift Package Manager](https://github.com/MoSonLee/TIL/issues/47#issue-1341428353)</br>
@@ -57,8 +64,7 @@
 [Local Notofication && Remote Notofication](https://github.com/MoSonLee/TIL/issues/68#issue-1342832935)</br>
 [Protocol](https://github.com/MoSonLee/TIL/issues/62#issue-1342798299)</br>
 [Property, Property Observer](https://github.com/MoSonLee/TIL/issues/58#issue-1342766733)</br>
-[Mutating func](https://github.com/MoSonLee/TIL/issues/59#issue-1342772184)</br>
-
+[Mutating func](https://github.com/MoSonLee/TIL/issues/59#issue-1342772184)</br
 
 ## View + ViewController
 [UIWindw](https://github.com/MoSonLee/TIL/issues/18#issue-1340017275)</br>
