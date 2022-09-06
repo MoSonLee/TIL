@@ -20,6 +20,7 @@
 [⭐️Class,Struct⭐️](https://github.com/MoSonLee/TIL/issues/43#issue-1341423602)</br>
 [Kingfisher](https://github.com/MoSonLee/TIL/issues/55#issue-1341599512)</br>
 [JGProgressHUD](https://github.com/MoSonLee/TIL/issues/80#issue-1361713925)</br>
+[Localization(국제화, 현지화)](https://github.com/MoSonLee/TIL/issues/81#issue-1362893992)</br>
 
 ## CS
 [http, https(App Transport Secrutiy Settings)](https://github.com/MoSonLee/TIL/issues/54#issue-1341597717)</br>
