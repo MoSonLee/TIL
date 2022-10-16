@@ -23,7 +23,7 @@
 [Localization(국제화, 현지화)](https://github.com/MoSonLee/TIL/issues/81#issue-1362893992)</br>
 [Codable, JSONSerialization](https://github.com/MoSonLee/TIL/issues/82#issue-1363003099)</br>
 [Migration]()</br>
-[Method Swizzling]()</br>
+[Method Swizzling](https://github.com/MoSonLee/TIL/issues/85#issue-1410458735)</br>
 [Remote Notification](https://github.com/MoSonLee/TIL/issues/84#issue-1410452389)</br>
 
 ## CS
