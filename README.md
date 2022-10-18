@@ -22,9 +22,6 @@
 [JGProgressHUD](https://github.com/MoSonLee/TIL/issues/80#issue-1361713925)</br>
 [Localization(국제화, 현지화)](https://github.com/MoSonLee/TIL/issues/81#issue-1362893992)</br>
 [Codable, JSONSerialization](https://github.com/MoSonLee/TIL/issues/82#issue-1363003099)</br>
-[Migration](https://github.com/MoSonLee/TIL/issues/86#issue-1410459715)</br>
-[Method Swizzling](https://github.com/MoSonLee/TIL/issues/85#issue-1410458735)</br>
-[Remote Notification](https://github.com/MoSonLee/TIL/issues/84#issue-1410452389)</br>
 
 ## CS
 [http, https(App Transport Secrutiy Settings)](https://github.com/MoSonLee/TIL/issues/54#issue-1341597717)</br>
@@ -78,6 +75,10 @@
 [Property, Property Observer](https://github.com/MoSonLee/TIL/issues/58#issue-1342766733)</br>
 [Mutating func](https://github.com/MoSonLee/TIL/issues/59#issue-1342772184)</br>
 [Typealias](https://github.com/MoSonLee/TIL/issues/78#issue-1361710220)</br>
+[Migration](https://github.com/MoSonLee/TIL/issues/86#issue-1410459715)</br>
+[Method Swizzling](https://github.com/MoSonLee/TIL/issues/85#issue-1410458735)</br>
+[Remote Notification](https://github.com/MoSonLee/TIL/issues/84#issue-1410452389)</br>
+[Collection View APIs]()</br>
 
 ## View + ViewController
 [UIWindw](https://github.com/MoSonLee/TIL/issues/18#issue-1340017275)</br>
