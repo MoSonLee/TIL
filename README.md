@@ -100,7 +100,7 @@
 [UIViewController 위에 UITableView를 올려서 사용하기](https://github.com/MoSonLee/TIL/issues/61#issue-1342783997)</br>
 [Handling button tap inside UITableView Cell](https://github.com/MoSonLee/TIL/issues/60#issue-1342774593)</br>
 [Pagenation](https://github.com/MoSonLee/TIL/issues/76#issue-1361707942)</br>
-[UICollectionViewDataSourcePrefetching(pagenation에서 자주 사용됨)](https://github.com/MoSonLee/TIL/issues/79#issue-1361713332)</ㅠㄱ
+[UICollectionViewDataSourcePrefetching(pagenation에서 자주 사용됨)](https://github.com/MoSonLee/TIL/issues/79#issue-1361713332)</br>
 [Handling button tap inside UITableView Cell](https://github.com/MoSonLee/TIL/issues/60#issue-1342774593)</br>
 
 ## Layout
