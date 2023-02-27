@@ -116,5 +116,5 @@
 
 ## SideProject
 [Fury](https://github.com/MoSonLee/TIL/issues/83#issue-1396508373)</br>
-[Fury blod](https://s2ung.tistory.com/34)</br>
+[Fury blog](https://s2ung.tistory.com/34)</br>
 [SLP](https://s2ung.tistory.com/31)</br>
