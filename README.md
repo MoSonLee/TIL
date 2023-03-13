@@ -119,3 +119,7 @@
 [Fury](https://github.com/MoSonLee/TIL/issues/83#issue-1396508373)</br>
 [Fury blog](https://s2ung.tistory.com/34)</br>
 [SLP](https://s2ung.tistory.com/31)</br>
+
+
+## 면접준비
+[Bounds 와 Frame 의 차이점]()</br>
