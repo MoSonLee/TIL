@@ -122,4 +122,4 @@
 
 
 ## 면접준비
-[Bounds 와 Frame 의 차이점]()</br>
+[Bounds 와 Frame](https://github.com/MoSonLee/TIL/issues/88#issue-1621959991)</br>
