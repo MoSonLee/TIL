@@ -124,3 +124,4 @@
 ## 면접준비
 [Bounds 와 Frame](https://github.com/MoSonLee/TIL/issues/88#issue-1621959991)</br>
 [앱의 콘텐츠, 데이터를 자체 저장해주는 역할을 해주는 객체 ](https://github.com/MoSonLee/TIL/issues/89#issue-1624948778)</br>
+[화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?](https://github.com/MoSonLee/TIL/issues/90#issue-1625084903)</br>
