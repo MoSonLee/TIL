@@ -12,7 +12,7 @@
 [Code Snippet](https://github.com/MoSonLee/TIL/issues/17#issue-1340015587)</br>
 [Build Settings](https://github.com/MoSonLee/TIL/issues/15#issue-1340012626)</br>
 [iOS 앱의 생명주기(life cycle)](https://s2ung.tistory.com/52)</br>
-[Access Control(접근제어자](https://github.com/MoSonLee/TIL/issues/19#issue-1340056845)</br>
+[Access Control(접근제어자](https://s2ung.tistory.com/53)</br>
 [iOS의 기본 구조(feat: Cocoa touch)](https://github.com/MoSonLee/TIL/issues/21#issue-1340178890)</br>
 [ViewController LifeCycle](https://github.com/MoSonLee/TIL/issues/49#issue-1341430329)</br>
 [Major / Minor / Patch](https://github.com/MoSonLee/TIL/issues/48#issue-1341428756)</br>
